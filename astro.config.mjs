@@ -1,5 +1,7 @@
-// @ts-check
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
-export default defineConfig({});
+export default defineConfig({
+  alias: {
+    '@cv': './src/components/cv', // Cambia la ruta al directorio correcto
+  },
+});

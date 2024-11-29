@@ -1,0 +1,202 @@
+{
+  "basics": {
+    "name": "Kevin Digran Montañez Olmedo",
+    "label": "Desarrollo de Software ",
+    "image": "/me.webp",
+    "email": "kevindigran@gmail.com",
+    "phone": "+51 906895428",
+    "url": "https://kevindigran.online",
+    "summary": "Tengo 27 años, con más de 2 años de experiencia en el desarrollo de software implementando de soluciones tecnológicas innovadoras gestionando arquitecturas de microservicios en proyectos de mediana complejidad integrando tecnologías Cloud para la optimización y monitorización de sistemas trayectoria incluye el rol de jefe Tecnológico donde he liderado un equipo de desarrollo y gestionado arquitecturas de microservicios en la nube, especialmente en el ámbito de ecommerce y sistemas de facturación.",
+    "location": {
+      "address": "",
+      "postalCode": "15852",
+      "city": "Lima",
+      "countryCode": "ES",
+      "region": "Peru"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kevindigran",
+        "url": "https://www.linkedin.com/in/kevin-digran/"
+      },
+      {
+        "network": "X",
+        "username": "kevidigran",
+        "url": "https://x.com/DigranKevin"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/KevinDigran97"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Inversiones Hasbun",
+      "position": "Lider tecnico",
+      "url": "",
+      "startDate": "2023-04-01",
+      "endDate": "2024-09-01",
+      "summary": "Diseñe la arquitectura de los sistemas, asegurándome de que que sean escalables, seguros y optimizados fomentando una cultura de seguridad desde el inicio de proyecto.Usé API Gateway como punto de entrada para gestionar y distribuir las peticiones de clientes, asegurando una integración fluida con servicios backend especializados.Me encargé de la configuración de recursos como AWS API Gateway, almacenamiento, y manejo de contenedores, además de la configuración de pipelines de CI/CD para agilizar el despliegue de actualizaciones",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Desarrollo Full Stack",
+      "position": "Desarrollador",
+      "startDate": "2022-07-10",
+      "endDate": "2022-12-01",
+      "summary": "Creación de wireframes y prototipos visuales en Figma de la pagina institucional para el Instituto Nacional IES Vicanota - Cuzco Implemente de la estructura y el contenido del sitio utilizando HTML, CSS JavaScript Despliegue y mantenimiento de la página en hosting compartido",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "UNIVERSIDAD TECNOLOGICA DEL PERÚ",
+    "url": "https://utp.edu.pe/",
+    "area": "Ingenieria de Software",
+    "studyType": "Bachelor",
+    "startDate": "2017-04-01",
+    "endDate": "2019-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },{
+    "institution": "EST VILCANOTA",
+    "url": "https://utp.edu.pe/",
+    "area": "Desarrollo de Software",
+    "studyType": "Bachelor",
+    "startDate": "2019-04-01",
+    "endDate": "2023-12-05",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+  ]
+}
